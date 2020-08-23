@@ -1,0 +1,13 @@
+.header
+{
+  height: 7%;
+
+}
+img{
+  border: 1px solid #ddd;
+  height: 40%;
+  padding: 10px;
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
